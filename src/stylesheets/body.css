@@ -1,0 +1,17 @@
+.word, .phonetic {
+    margin-left:40px;
+}
+.word{
+    font-size: 2.6em;
+    font-weight: bolder;
+}
+.phonetic{
+    color:rgb(212, 103, 121);
+    font-size: 2em;
+    font-weight: bolder;
+
+}
+.audio{
+    float: right;
+    margin-right: 100px;
+}
